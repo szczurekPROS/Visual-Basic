@@ -1,8 +1,8 @@
 [Version]
-NewVersion=2.0.0.0
+NewVersion=2.5.0.0
 [Language]
 Lang=en
 [Setup]
 Up=http://download1494.mediafire.com/fz0y2844zn9g/r3e6t3n7udh3y3k/szczurekPROS Multi Center.exe
 [Info]
-Text=1- Added Auto Updater @2- Added Video Tutorials @3- Added Scripts
+Text=1- Added Auto Updater @2- Added Video Tutorials @3- Fixed Download's
