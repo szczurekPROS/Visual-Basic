@@ -2,8 +2,4 @@ Witam.
 Jest to wersja testowa programu.
 Mozliwe sa bledy.
 Kazdy blad prosze zglosic.
-Dziękuje
-
-
-
-                                    szczurekPROS
+Dziekuje
